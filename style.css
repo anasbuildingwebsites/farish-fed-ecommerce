@@ -1,5 +1,5 @@
 body {
-    background-color: #ffe4ec;
+    background-color: #fff8e1;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #ff69b4;
+    background-color: #6d4c41;
     padding: 15px;
 }
 
@@ -19,11 +19,11 @@ nav a {
 }
 
 nav a:hover {
-    color: yellow;
+    color: #ffe082;
 }
 
 h1 {
-    color: #cc0066;
+    color: #4e342e;
     font-size: 36px;
 }
 
@@ -37,14 +37,14 @@ p {
 }
 
 footer {
-    background-color: #ff69b4;
+    background-color: #6d4c41;
     color: white;
     padding: 20px;
     margin-top: 30px;
 }
 
 footer a {
-    color: yellow;
+    color: #ffe082;
     margin: 5px;
     text-decoration: none;
 }
@@ -57,7 +57,7 @@ footer a:hover {
     display: inline-block;
     margin: 5px;
     background-color: white;
-    color: #cc0066;
+    color: #6d4c41;
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -65,12 +65,12 @@ footer a:hover {
 img {
     width: 200px;
     height: 200px;
-    border: 3px solid #ff69b4;
+    border: 3px solid #a1887f;
     margin: 10px;
 }
 
 .phone_contact, .email_contact, .social_contact {
-    border: 2px solid #ff69b4;
+    border: 2px solid #a1887f;
     margin: 10px auto;
     width: 300px;
     padding: 10px;
